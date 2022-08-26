@@ -1,11 +1,11 @@
-horas_trabajadas = 53;
-horas_extras = 40 - horas_trabajadas;
+horastrabajadas = 53;
+horasextras = 40 - horastrabajadas;
   
 
 if(horas_extras < 0){
   console.log("El total a pagar por hors laborales normal (40hrs) es de: " + 40 * 265);
-  console.log("El total a pagar por hors Extras es de: " + (-horas_extras * 350));
+  console.log("El total a pagar por hors Extras es de: " + (-horasextras * 350));
 }else{
-  console.log("El total a pagar por hors laborales normal (40hrs) es de: " + horas_trabajadas * 265);
+  console.log("El total a pagar por hors laborales normal (40hrs) es de: " + horastrabajadas * 265);
 }
     
