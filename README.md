@@ -1,1 +1,1 @@
-# Examen-pr-ctico-Tech-Academy-pico-Acelera-Digital-Guayaquil
+# Examen-practico-Tech-Academy Epico-Acelera-Digital-Guayaquil
