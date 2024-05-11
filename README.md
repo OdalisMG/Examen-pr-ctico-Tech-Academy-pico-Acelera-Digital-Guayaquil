@@ -1,1 +1,2 @@
-# Examen-practico-Tech-Academy Epico-Acelera-Digital-Guayaquil
+# Examen practico Tech Academy
+- Validaciones en uso de temas js 
